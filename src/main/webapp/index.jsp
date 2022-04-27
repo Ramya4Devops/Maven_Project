@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello Git!</h2>
+<h2 style="color:red;text-align:center">Hello Git!</h2>
 </body>
 </html>
